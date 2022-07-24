@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my Ability to learn more abou Front end developing analise datas.
+- 🔭 I’m currently working on my Ability to learn more about Front end developing and Technology in Systems Analysis and Development.
 - 🌱 I’m currently learning Vue JS 3, Java, Python, ...
 - 👯 I’m looking to collaborate with new people and maybe one day you
 - 📫 How to reach me: my E-mail or Linkedin.
