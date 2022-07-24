@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on my Ability to learn more abou Front end developing analise datas.
+- 🌱 I’m currently learning Vue JS 3, Java, Python, ...
+- 👯 I’m looking to collaborate with new people and maybe one day you
+- 📫 How to reach me: my E-mail or Linkedin.
 <!--
 **sam-pazouki/sam-pazouki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
