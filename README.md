@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my Ability to learn more about Front end developing and Technology in Systems Analysis and Development.
-- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate with new people.
 - 📫 How to reach me: my E-mail or Linkedin.
 <!--
