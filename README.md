@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my Abilities.
+- 🔭 I've been coding for more than 7 years.
 - 👯 I’m looking to collaborate with new people.
 - 📫 How to reach me: my E-mail with the link below.
 
