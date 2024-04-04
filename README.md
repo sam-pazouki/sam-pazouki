@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm coding for more than 8 years.
+- 🔭 I'm coding for more than 12 years.
 - 👯 I’m looking to collaborate with new people.
 - 📫 How to reach me: my E-mail with the link below.
 
